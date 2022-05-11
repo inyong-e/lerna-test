@@ -1,0 +1,26 @@
+{
+  "name": "test-ethan",
+  "version": "1.0.1",
+  "description": "> TODO: description",
+  "author": "inyong-e <jiy8319@gmail.com>",
+  "homepage": "https://github.com/yacineb/lerna-example/tree/master/packages/test#readme",
+  "license": "ISC",
+  "main": "lib/test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yacineb/lerna-example.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/yacineb/lerna-example/issues"
+  }
+}
