@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yacineb/lerna-example.git"
+    "url": "git+https://github.com/inyong-e/lerna-test.git"
   },
   "keywords": [
     "lerna",
