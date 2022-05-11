@@ -7,7 +7,7 @@ console.log(_.isEqual(a([1, 2, 2]), b));
 
 function logEvery2Seconds(i) {
   setTimeout(() => {
-    console.log("Infinite Loop Test n:", i);
+    console.log("Infinite Loop Test n2:", i);
     logEvery2Seconds(++i);
   }, 2000);
 }
