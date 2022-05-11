@@ -3,6 +3,6 @@
 const _ = require('lodash');
 module.exports = function removeDupl(data) {
     return _.uniqBy(data, function (e) {
-        return e + 2;
+        return e + 3;
       });
   };
